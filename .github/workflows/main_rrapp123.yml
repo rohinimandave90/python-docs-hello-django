@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rrapp123'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E46E7E0EC82B482F897E5A17675E8211 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_333A672C7ADF41DD967B6B4650AD3E2D }}
